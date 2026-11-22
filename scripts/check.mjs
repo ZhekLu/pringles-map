@@ -4,6 +4,32 @@ import { resolve } from "node:path";
 const catalogue = JSON.parse(await readFile("data/catalogue.json", "utf8"));
 const ids = new Set();
 const usedImages = new Set();
+const regionIds = new Set();
+const regionMarkets = new Set();
+for (const region of catalogue.regions) {
+  assert(
+    region.id && !regionIds.has(region.id),
+    `Duplicate/invalid region: ${region.id}`,
+  );
+  regionIds.add(region.id);
+  assert(
+    region.name && region.markets.length,
+    `Incomplete region: ${region.id}`,
+  );
+  for (const market of region.markets) {
+    assert(catalogue.markets[market], `Unknown regional market: ${market}`);
+    assert(
+      !regionMarkets.has(market),
+      `Market belongs to multiple regions: ${market}`,
+    );
+    regionMarkets.add(market);
+  }
+}
+assert.deepEqual(
+  [...regionMarkets].sort(),
+  Object.keys(catalogue.markets).sort(),
+  "Every market must belong to a region.",
+);
 let images = 0;
 for (const item of catalogue.items) {
   assert(

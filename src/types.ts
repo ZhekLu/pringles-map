@@ -22,6 +22,17 @@ export interface Tasting {
 }
 export type Collection = Record<string, Tasting>;
 export type MarketNames = Record<string, string>;
+export interface Region {
+  id: string;
+  name: string;
+  markets: readonly string[];
+}
+export interface RegionProgress {
+  region: Region;
+  tasted: number;
+  total: number;
+  percent: number;
+}
 export type CollectionView = "all" | "untasted" | "tasted" | "favourites";
 export interface Filters {
   query: string;

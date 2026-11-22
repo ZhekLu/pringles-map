@@ -4,6 +4,8 @@ import type {
   Flavour,
   Filters,
   MarketNames,
+  Region,
+  RegionProgress,
 } from "./types.ts";
 
 export const STORAGE_KEY = "pringles-map.collection.v1";
@@ -141,6 +143,37 @@ export function filterItems(
         a.name.localeCompare(b.name),
     );
   return rows;
+}
+
+export function getRegionProgress(
+  items: readonly Flavour[],
+  entries: Collection,
+  regions: readonly Region[],
+): RegionProgress[] {
+  return regions.flatMap((region) => {
+    const markets = new Set(region.markets);
+    // Shared flavours contribute, but only a region-specific flavour starts a bar.
+    const started = items.some(
+      (item) =>
+        entries[item.id]?.tasted &&
+        item.markets.length > 0 &&
+        item.markets.every((market) => markets.has(market)),
+    );
+    if (!started) return [];
+
+    const available = items.filter((item) =>
+      item.markets.some((market) => markets.has(market)),
+    );
+    const tasted = available.filter((item) => entries[item.id]?.tasted).length;
+    return [
+      {
+        region,
+        tasted,
+        total: available.length,
+        percent: Math.round((tasted / available.length) * 100),
+      },
+    ];
+  });
 }
 
 export function csvCell(value: unknown): string {

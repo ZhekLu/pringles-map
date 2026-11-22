@@ -16,6 +16,7 @@ A personal checklist of Pringles flavours, with ratings and notes saved in your 
 ## Using the checklist
 
 - Search the 126 entries by flavour or country, filter by market, and mark flavours as tasted.
+- Regional progress appears after you taste a flavour available only within that region.
 - Optionally give a 1-5 rating or add a note. Rating a flavour also marks it as tasted; unchecking it keeps your rating and note.
 - Each flavour has one can photo. Only distinct regional designs get a gallery, labelled by region. Tap any photo to enlarge it.
 - Download a JSON backup to keep your entries or move them to another browser. CSV export and printing are also available.
@@ -39,5 +40,5 @@ npm run preview  # Preview the compiled site
 
 ## Maintaining the catalogue
 
-`data/catalogue.json` contains the flavours, source links and image credits. 
+`data/catalogue.json` contains the flavours, source links, image credits and regional market groups.
 Photos are stored in `public/assets/cans/`. Flavour IDs are kept stable so existing saved entries continue to match.

@@ -300,6 +300,74 @@ h1 em {
   width: 75px;
   line-height: 1.5;
 }
+.region-progress {
+  margin-top: 14px;
+  padding: 22px 27px;
+  border: 1px solid var(--line);
+  border-radius: 13px;
+  background: #fff;
+}
+.region-progress-heading h2 {
+  margin: 0;
+  font-size: 18px;
+  letter-spacing: -0.4px;
+}
+.region-progress-heading p {
+  margin: 6px 0 20px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.5;
+}
+.region-progress-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+  gap: 22px 32px;
+}
+.region-progress-item {
+  min-width: 0;
+  break-inside: avoid;
+}
+.region-progress-label {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+.region-progress-label h3 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 650;
+  line-height: 1.5;
+}
+.region-progress-label > span {
+  color: var(--muted);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.region-progress-label strong {
+  color: var(--ink);
+  font-weight: 650;
+}
+.region-progress-meter {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.region-progress-meter .progress-track {
+  flex: 1;
+}
+.region-progress-meter .progress-track > div {
+  background: var(--green);
+}
+.region-progress-meter > span {
+  min-width: 4ch;
+  color: var(--green);
+  font-size: 13px;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
 .collection {
   padding-top: 54px;
   min-height: 500px;
@@ -1351,6 +1419,10 @@ textarea::placeholder {
     padding: 16px;
     gap: 17px;
     flex-wrap: wrap;
+    border-radius: 11px;
+  }
+  .region-progress {
+    padding: 18px 16px;
     border-radius: 11px;
   }
   .progress-heading {

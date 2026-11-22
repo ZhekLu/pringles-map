@@ -4,6 +4,7 @@ import { readFileSync } from "node:fs";
 import {
   emptyEntry,
   filterItems,
+  getRegionProgress,
   makeBackup,
   parseBackup,
   readCollection,
@@ -17,10 +18,11 @@ import type {
   Filters,
   Flavour,
   MarketNames,
+  Region,
 } from "../src/types.ts";
 const catalogue = JSON.parse(
   readFileSync(new URL("../data/catalogue.json", import.meta.url), "utf8"),
-) as { items: Flavour[]; markets: MarketNames };
+) as { items: Flavour[]; markets: MarketNames; regions: Region[] };
 const ids = new Set(catalogue.items.map((item) => item.id));
 const filters: Filters = {
   query: "",
@@ -199,6 +201,88 @@ test("sorts by personal rating without mutating the catalogue", () => {
     catalogue.items.map((i) => i.id),
     original,
   );
+});
+function tastedEntries(...ids: number[]): Collection {
+  return Object.fromEntries(
+    ids.map((id) => [id, { ...emptyEntry(), tasted: true }]),
+  );
+}
+function regionalCounts(entries: Collection) {
+  return getRegionProgress(catalogue.items, entries, catalogue.regions).map(
+    ({ region, tasted, total, percent }) => ({
+      region: region.id,
+      tasted,
+      total,
+      percent,
+    }),
+  );
+}
+test("empty collections and shared classics alone start no regional progress", () => {
+  assert.deepEqual(regionalCounts({}), []);
+  // Original, Sour Cream & Onion, BBQ and Salt & Vinegar span several regions.
+  assert.deepEqual(regionalCounts(tastedEntries(1, 2, 3, 4)), []);
+});
+test("a Europe-only flavour starts Europe and includes shared classics in its progress", () => {
+  // Original + Emmental. The 40 available flavours include other collections.
+  assert.deepEqual(regionalCounts(tastedEntries(1, 28)), [
+    { region: "europe", tasted: 2, total: 40, percent: 5 },
+  ]);
+});
+test("availability determines the region regardless of the collection label", () => {
+  // Prawn Cocktail (UK + EU) and Bacon are Classics; Pigs in Blankets is Seasonal.
+  // The UK + EU flavour is counted once, and each can start the same region.
+  for (const id of [14, 15, 49]) {
+    assert.deepEqual(regionalCounts(tastedEntries(id)), [
+      { region: "europe", tasted: 1, total: 40, percent: 3 },
+    ]);
+  }
+  assert.deepEqual(regionalCounts(tastedEntries(1, 14, 15, 49)), [
+    { region: "europe", tasted: 4, total: 40, percent: 10 },
+  ]);
+});
+test("shared classics contribute to every started region without starting the rest", () => {
+  // Original + Emmental + Texas BBQ Brisket + Hi! CHEESE!.
+  assert.deepEqual(regionalCounts(tastedEntries(1, 28, 51, 87)), [
+    { region: "europe", tasted: 2, total: 40, percent: 5 },
+    { region: "north-america", tasted: 2, total: 46, percent: 4 },
+    { region: "japan", tasted: 2, total: 10, percent: 20 },
+  ]);
+});
+test("a flavour shared across two regions counts towards both but starts neither", () => {
+  // Butter Caramel is sold in Australia and Korea, despite its collection label.
+  assert.deepEqual(regionalCounts(tastedEntries(82)), []);
+  assert.deepEqual(regionalCounts(tastedEntries(82, 80)), [
+    { region: "asia-oceania", tasted: 2, total: 15, percent: 13 },
+  ]);
+  assert.deepEqual(regionalCounts(tastedEntries(82, 80, 95)), [
+    { region: "asia-oceania", tasted: 2, total: 15, percent: 13 },
+    { region: "korea", tasted: 2, total: 15, percent: 13 },
+  ]);
+});
+test("unchecking the last regional flavour hides its bar even when its rating and note remain", () => {
+  const entries = tastedEntries(1, 28);
+  assert.equal(regionalCounts(entries).length, 1);
+  entries[28] = { tasted: false, rating: 5, note: "Would try again." };
+  assert.deepEqual(regionalCounts(entries), []);
+  // Deriving progress leaves the saved entry untouched.
+  assert.deepEqual(entries[28], {
+    tasted: false,
+    rating: 5,
+    note: "Would try again.",
+  });
+});
+test("completed regional bars use all available flavours and never exceed 100 percent", () => {
+  const entries = tastedEntries(...catalogue.items.map((item) => item.id));
+  assert.deepEqual(regionalCounts(entries), [
+    { region: "europe", tasted: 40, total: 40, percent: 100 },
+    { region: "north-america", tasted: 46, total: 46, percent: 100 },
+    { region: "asia-oceania", tasted: 15, total: 15, percent: 100 },
+    { region: "japan", tasted: 10, total: 10, percent: 100 },
+    { region: "korea", tasted: 15, total: 15, percent: 100 },
+    { region: "china", tasted: 14, total: 14, percent: 100 },
+    { region: "brazil", tasted: 5, total: 5, percent: 100 },
+    { region: "africa-middle-east", tasted: 12, total: 12, percent: 100 },
+  ]);
 });
 test("CSV preserves notes and quotes while neutralizing spreadsheet formulas", () => {
   const data = {

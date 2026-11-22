@@ -11,6 +11,7 @@ import type {
 import {
   emptyEntry,
   filterItems,
+  getRegionProgress,
   makeBackup,
   MAX_NOTE_LENGTH,
   parseBackup,
@@ -517,6 +518,10 @@ export default function App() {
   const tasted = items.filter((x) => entries[x.id]?.tasted).length,
     rated = items.filter((x) => entries[x.id]?.rating).length;
   const percent = Math.round((tasted / items.length) * 100);
+  const regionProgress = useMemo(
+    () => getRegionProgress(items, entries, catalogue.regions),
+    [entries],
+  );
   const hasFilters =
     filters.query || filters.market || filters.group || filters.view !== "all";
   const onZoom = useCallback(
@@ -595,7 +600,7 @@ export default function App() {
               ✓
             </span>
             <div>
-              <p className="eyebrow">YOUR PROGRESS</p>
+              <p className="eyebrow">WORLDWIDE</p>
               <p>
                 <strong>{tasted}</strong>{" "}
                 <span className="muted">of {items.length} flavours tasted</span>
@@ -606,7 +611,7 @@ export default function App() {
             <div
               className="progress-track"
               role="progressbar"
-              aria-label="Flavours tasted"
+              aria-label="Worldwide flavours tasted"
               aria-valuemin={0}
               aria-valuemax={items.length}
               aria-valuenow={tasted}
@@ -624,6 +629,52 @@ export default function App() {
             <span>rated</span>
           </div>
         </section>
+        {regionProgress.length > 0 && (
+          <section
+            className="region-progress wrap"
+            aria-labelledby="region-progress-title"
+          >
+            <div className="region-progress-heading">
+              <h2 id="region-progress-title">Your regions</h2>
+              <p>
+                A regional flavour starts a bar. Shared classics count towards
+                it too.
+              </p>
+            </div>
+            <div className="region-progress-grid">
+              {regionProgress.map(({ region, tasted, total, percent }) => (
+                <div className="region-progress-item" key={region.id}>
+                  <div className="region-progress-label">
+                    <h3
+                      title={region.markets
+                        .map((code) => marketNames[code])
+                        .join(", ")}
+                    >
+                      {region.name}
+                    </h3>
+                    <span>
+                      <strong>{tasted}</strong> / {total}
+                    </span>
+                  </div>
+                  <div className="region-progress-meter">
+                    <div
+                      className="progress-track"
+                      role="progressbar"
+                      aria-label={`${region.name} flavours tasted`}
+                      aria-valuemin={0}
+                      aria-valuemax={total}
+                      aria-valuenow={tasted}
+                      aria-valuetext={`${tasted} of ${total} flavours tasted (${percent}%)`}
+                    >
+                      <div style={{ width: `${percent}%` }} />
+                    </div>
+                    <span>{percent}%</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
         <section
           className="collection wrap"
           id="collection"

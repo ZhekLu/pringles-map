@@ -2374,6 +2374,68 @@
     "ZA": "South Africa",
     "ME": "Middle East"
   },
+  "regions": [
+    {
+      "id": "europe",
+      "name": "Europe & UK",
+      "markets": [
+        "EU",
+        "UK"
+      ]
+    },
+    {
+      "id": "north-america",
+      "name": "North America",
+      "markets": [
+        "US",
+        "CA"
+      ]
+    },
+    {
+      "id": "asia-oceania",
+      "name": "Australia & Southeast Asia",
+      "markets": [
+        "AU",
+        "SEA"
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "markets": [
+        "JP"
+      ]
+    },
+    {
+      "id": "korea",
+      "name": "South Korea",
+      "markets": [
+        "KR"
+      ]
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "markets": [
+        "CN"
+      ]
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "markets": [
+        "BR"
+      ]
+    },
+    {
+      "id": "africa-middle-east",
+      "name": "Africa & Middle East",
+      "markets": [
+        "ZA",
+        "ME"
+      ]
+    }
+  ],
   "sources": {
     "us": [
       "United States · Pringles official catalogue",
