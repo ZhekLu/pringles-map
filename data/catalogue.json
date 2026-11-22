@@ -1,0 +1,2467 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Original",
+      "markets": [
+        "US",
+        "UK",
+        "EU",
+        "CA",
+        "AU",
+        "JP",
+        "KR",
+        "SEA",
+        "BR",
+        "ZA",
+        "ME"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/1-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000138416_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sour Cream & Onion",
+      "markets": [
+        "US",
+        "UK",
+        "EU",
+        "CA",
+        "AU",
+        "JP",
+        "KR",
+        "SEA",
+        "ME"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/2-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000138430_C1N1?wid=1000",
+          "label": "United States can",
+          "region": "United States"
+        },
+        {
+          "src": "assets/cans/2-regional.webp",
+          "creditUrl": "https://sundrug-online.com/th/products/8886467124617",
+          "originalUrl": "https://sundrug-online.com/cdn/shop/files/8886467124617.jpg?v=1716337025",
+          "label": "Japan can",
+          "region": "Japan"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "BBQ",
+      "markets": [
+        "US",
+        "CA",
+        "AU",
+        "SEA",
+        "ME"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/3-1.webp",
+          "creditUrl": "https://www.igashop.com.au/product/pringles-bbq-stacked-potato-chips-636602",
+          "originalUrl": "https://cdn.metcash.media/image/upload/f_auto%2Cc_limit%2Cw_1500%2Cq_auto/igashop/images/636602",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Salt & Vinegar",
+      "markets": [
+        "US",
+        "UK",
+        "EU",
+        "CA",
+        "AU",
+        "SEA",
+        "ME"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/4-can.webp",
+          "creditUrl": "https://www.ebag.bg/chips-pringles-sol-i-otset/607338",
+          "originalUrl": "https://www.ebag.bg/products/images/122119/800",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cheddar Cheese",
+      "markets": [
+        "US",
+        "CA"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/5-1.webp",
+          "creditUrl": "https://priceclub.com.sg/products/pringles-potato-crisps-cheddar-cheese-148g",
+          "originalUrl": "https://priceclub.com.sg/cdn/shop/files/Pringles_Cheddar_Cheese_158g.png?v=1755163821",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Cheese / Cheesy Cheese",
+      "markets": [
+        "EU",
+        "SEA",
+        "KR",
+        "BR",
+        "ME"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/6-can.webp",
+          "creditUrl": "https://www.almadnitrader.com/products/pringles-165g",
+          "originalUrl": "https://www.almadnitrader.com/cdn/shop/files/Pringles165g-3.webp?v=1769760009&width=1445",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cheddar & Sour Cream",
+      "markets": [
+        "US"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/7-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000138973_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Pizza",
+      "markets": [
+        "US",
+        "EU",
+        "CA",
+        "SEA"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/8-can.webp",
+          "creditUrl": "https://bens-candy.de/products/pringles-pizza-158g",
+          "originalUrl": "https://bens-candy.de/cdn/shop/files/pringles-pizza-158gjpg-1384538.jpg?v=1777297610&width=1445",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ranch",
+      "markets": [
+        "US"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/9-1.webp",
+          "creditUrl": "https://aceconvenience.ca/pringles-ranch-150g/",
+          "originalUrl": "https://cdn11.bigcommerce.com/s-mjgddswjjr/images/stencil/1280x1280/products/163/564/Untitled_design_-_2025-04-09T150355.358__82397.1744225442.png?c=1",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Honey Mustard",
+      "markets": [
+        "US",
+        "CA"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/10-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000298356_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Dill Pickle",
+      "markets": [
+        "US",
+        "CA"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/11-1.webp",
+          "creditUrl": "https://epicfoodsupply.com/products/pringles-xtreme-screamin-dill-pickle-169g",
+          "originalUrl": "https://epicfoodsupply.com/cdn/shop/products/Pringles-Dill-Pickle_a575db59-45a4-40d0-89e5-f797f8348358.jpg?v=1674656997",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Ketchup",
+      "markets": [
+        "EU",
+        "CA",
+        "ME"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/12-can.webp",
+          "creditUrl": "https://www.lacasadelasgolosinas.com/es/pringles-ketchup-165gr-8643.html",
+          "originalUrl": "https://www.lacasadelasgolosinas.com/22460-ficha_zoom/pringles-ketchup-165gr.jpg",
+          "label": "Europe can",
+          "region": "Europe"
+        },
+        {
+          "src": "assets/cans/12-regional.webp",
+          "creditUrl": "https://www.walmart.ca/en/ip/Pringles-Ketchup-Potato-Chips-156-G/6000196606816",
+          "originalUrl": "https://i5.walmartimages.ca/asr/382e7a8e-d761-4510-b8da-87593861123d.783ddc132b2b57e74d206ce46b580545.jpeg?odnBg=FFFFFF&odnHeight=2000&odnWidth=2000",
+          "label": "Canada can",
+          "region": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Hot & Spicy",
+      "markets": [
+        "UK",
+        "EU",
+        "AU",
+        "SEA",
+        "KR",
+        "ME"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/13-can.webp",
+          "creditUrl": "https://allegro.hu/termek/csipos-es-fuszeres-burgonyachips-pringles-hot-spicy-165g-d00a221f-90ad-4352-b768-ede788e2f921",
+          "originalUrl": "https://a.allegroimg.com/original/056008/a6f214fa457086b62cd0e721c756/PRINGLES-CSIPOS-ES-CSIPOS-CHIPS-165-G",
+          "label": "Europe can",
+          "region": "Europe"
+        },
+        {
+          "src": "assets/cans/13-regional.webp",
+          "creditUrl": "https://candyfunhouse.ca/products/pringles-hot-and-spicy-korea-110g",
+          "originalUrl": "https://candyfunhouse.ca/cdn/shop/files/pringles-hot-spicy-candy-funhouse.jpg?v=1728573533",
+          "label": "South Korea can",
+          "region": "South Korea"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Prawn Cocktail",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/14-1.webp",
+          "creditUrl": "https://premier-stores-crieff.co.uk/products/pringles-prawn-cocktail",
+          "originalUrl": "https://premier-stores-crieff.co.uk/cdn/shop/products/F870A96D-3232-4CE2-B132-62C061959FD2.jpg?v=1616706360",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Bacon",
+      "markets": [
+        "EU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/15-1.webp",
+          "creditUrl": "https://pepperyspot.com/products/pringles-bacon-potato-crisps-165-g",
+          "originalUrl": "https://pepperyspot.com/cdn/shop/files/bacon-165.jpg?v=1720798864",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Smoky Bacon",
+      "markets": [
+        "US",
+        "UK",
+        "EU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/16-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000312687_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Smoky Mesquite BBQ",
+      "markets": [
+        "US"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/17-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000312762_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Smoky Cheddar",
+      "markets": [
+        "US"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/18-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000312700_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Sharp White Cheddar",
+      "markets": [
+        "US"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/19-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000312748_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Lightly Salted Original",
+      "markets": [
+        "US",
+        "CA",
+        "AU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/20-1.webp",
+          "creditUrl": "https://www.londondrugs.com/products/pringles-potato-chips-lightly-salted-148g/p/L6716468",
+          "originalUrl": "https://cdn-tp2.mozu.com/28945-47379/cms/47379/files/4f207d1e-b1cf-46bd-ab99-ef5c9b962ed7",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Cheese & Onion",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/21-can.webp",
+          "creditUrl": "https://www.unicat-candy.de/Pringles-Cheese-Onion-165g",
+          "originalUrl": "https://www.unicat-candy.de/media/image/product/88847/lg/pringles-cheese-onion-165g~2.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Paprika / Classic Paprika",
+      "markets": [
+        "EU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/22-1.webp",
+          "creditUrl": "https://www.migros.com.tr/pringles-baharatli-paprika-165-g-p-4d8d85",
+          "originalUrl": "https://images.migrosone.com/sanalmarket/product/05082501/05082501-72721d-1650x1650.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Grilled Paprika",
+      "markets": [
+        "EU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/dk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/23-1.webp",
+          "creditUrl": "https://www.ebay.de/itm/405208890913",
+          "originalUrl": "https://cdn02.plentymarkets.com/t4l5octwuee2/item/images/895654/full/5053990175291-Pringles-Grilled-Paprika-Stapelchips-mit-Paprikageschmack-165g.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Cream Cheese & Herbs",
+      "markets": [
+        "EU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/es/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/24-can.webp",
+          "creditUrl": "https://www.mega-einkaufsparadies.de/topmarken/p/pringles/pringles-cream-cheese-and-herbs-chips-stapelchips-packung-160g_904820_135213",
+          "originalUrl": "https://cdn02.plentymarkets.com/t4l5octwuee2/item/images/904820/full/867544-Pringles-Cream-Cheese-Herbs-160g.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Texas BBQ Sauce",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/25-can.webp",
+          "creditUrl": "https://www.mueller.de/p/pringles-chips-texas-bbq-sauce-2475731/",
+          "originalUrl": "https://static.prod.ecom.mueller.de/products/5053990161966/markant_05053990161966_pv_4509038.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Sweet Chilli / Sweet Chili",
+      "markets": [
+        "UK",
+        "CA"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/26-1.webp",
+          "creditUrl": "https://liacandy.de/products/pringles-sweet-chili-sauce",
+          "originalUrl": "https://liacandy.de/cdn/shop/files/Pringles_Sweet_Chili_Sauce_LiaCandy.png?v=1774721869&width=1946",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Crab",
+      "markets": [
+        "EU"
+      ],
+      "group": "Classics",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/27-1.webp",
+          "creditUrl": "https://maudau.com.ua/product/13057-pr-chipsy-pringles-crab-zi-smakom-krabu-19-sh-k-sep25",
+          "originalUrl": "https://image.maudau.com.ua/webp/size/xl/products/b8/12/5b/b8125bbb004804164fa88e6906ae8d4b.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Emmental",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/it/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/28-1.webp",
+          "creditUrl": "https://snackplanet.it/products/pringles-emmental-patatine-gusto-formaggio-emmental-200g",
+          "originalUrl": "https://snackplanet.it/cdn/shop/products/pringles-emmental-200g.jpg?v=1591982658",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Mediterranean Herbs & Olives",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/it/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/29-1.webp",
+          "creditUrl": "https://www.carrefour.it/p/pringles-apero-edition-mediterranean-herbs-olives-flavour-175-g/5053990190201.html",
+          "originalUrl": "https://www.carrefour.it/on/demandware.static/-/Sites-carrefour-master-catalog-IT/default/dwf31fe013/large/PRINGLESMEDITERRHERBS165G-5053990190201-1.png",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Flame Grilled Steak",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/fr/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/30-1.webp",
+          "creditUrl": "https://peeko.co.uk/products/pringles-f-grill-steak-pm",
+          "originalUrl": "https://peeko.co.uk/cdn/shop/files/pringlesFlameGrilledSteak_1.png?v=1767952842",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Black Truffle & Butter",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/es/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/31-1.webp",
+          "creditUrl": "https://www.joybuy.nl/dp/pringles-passport-zwarte-truffel-boter-165/101719622",
+          "originalUrl": "https://images4.joy-sourcing.com/product/jfsintlpro-000-product/t1/4294967296/458752/61097966268437/1234951/69ca18a4Ec2dda36e/42b10752b5083d5e.png.webp",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Jamón (Spanish ham)",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/es/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/32-1.webp",
+          "creditUrl": "https://www.mustakshif.com/product/detail/5053990164110/pringles-sabor-jamon",
+          "originalUrl": "https://www.mustakshif.com/public/uploads/products/pringles-sabor-jamon_5053990164110_Mustakshif.png",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Pesto",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/it/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/33-extra-F.webp",
+          "creditUrl": "https://tormino.be/products/pringles-italian-style-pesto-6x-165-gr",
+          "originalUrl": "https://tormino.be/img/s/0841-3478-9439/files/Pringles-Italian-Style-Pesto-6x-165-gr_42b2b160-7449-4195-ae07-6e385cc8d374.png?v=1788624593&width=900&fit=t",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Nachos Original",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/es/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/34-extra-F.webp",
+          "creditUrl": "https://atmfmcg.com/catalog/chips/pringles/pringles-nachos-original-150g-5053990198702",
+          "originalUrl": "https://atmfmcg.com/__l5e/assets-v1/d49a4dcf-3d5a-4aa0-b753-78036ba07a67/pringles-5053990198702.webp",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Nachos Cheese",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/es/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/35-verified.webp",
+          "creditUrl": "https://atmfmcg.com/catalog/chips/pringles/pringles-nachos-cheese-150g-5053990198634",
+          "originalUrl": "https://atmfmcg.com/__l5e/assets-v1/2bcdd127-fbc9-49a1-b1ca-d772217688d0/pringles-5053990198634.webp",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Nachos Paprika",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/es/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/36-extra-F.webp",
+          "creditUrl": "https://www.worldofsweets.de/Pringles-Nachos-Paprika-150g.335662.html",
+          "originalUrl": "https://www.worldofsweets.de/out/pictures/generated/product/1/540_340_75/pringles-nacho-paprika-150g-no1-0316.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "HOT Kickin' Sour Cream",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/37-can.webp",
+          "creditUrl": "https://shop.transgourmet.at/produkt/3645975",
+          "originalUrl": "https://www.psassets.ch/thumbs/7c/2a/d9cc80a77bdfe6ea6a496492b5d1-WB_3645975.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "HOT Smokin' BBQ Ribs",
+      "markets": [
+        "UK"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/38-can.webp",
+          "creditUrl": "https://exoticsnackguyskop.com/products/pringles-hot-smoking-bbq-ribs",
+          "originalUrl": "https://exoticsnackguyskop.com/cdn/shop/files/Pringles-Hot-Smokin-BBQ-Ribs-160g_grande.webp?v=1745611779",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "HOT Sweet Chilli",
+      "markets": [
+        "UK"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/39-can.webp",
+          "creditUrl": "https://www.partyking.dk/pringles-hot-sweet-chili-103911.html",
+          "originalUrl": "https://static.partyking.org/fit-in/1300x0/products/original/pringles-hot-sweet-chilli-chips-103911-1.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "HOT Mexican Chilli & Lime",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/40-can.webp",
+          "creditUrl": "https://www.discounto.de/Angebot/Pringles-Hot-Mexican-Chilli-Lime-9780015/",
+          "originalUrl": "https://src.discounto.de/pics/Angebote/2024/08/20/8929b7c26757f26def6f566a0773885f/Pringles-Hot-Mexican-Chilli-Lime_xxl.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "HOT Cheese & Chilli",
+      "markets": [
+        "UK"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/41-can.webp",
+          "creditUrl": "https://gcc.luluhypermarket.com/en-qa/pringles-hot-cheese-chilli-flavour-potato-chips-160-g/p/2324575",
+          "originalUrl": "https://bf1af2.a-cdn.akinoncloud.com/products/2024/12/14/321056/0f94a51c-b736-4a39-a58d-3f0d7ced726b_size3840_cropCenter.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "HOT Fried Chicken",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/42-1.webp",
+          "creditUrl": "https://candyfunhouse.ca/products/pringles-hot-blazin-fried-chicken-uk-160g",
+          "originalUrl": "https://cdn.shopify.com/s/files/1/0250/7483/files/pringles-hot-blazin-fried-chicken-uk-160g-Candy-Funhouse.png?v=1760732963",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "HOT Flamin' Cheese",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/43-1.webp",
+          "creditUrl": "https://samgross.se/pringles-hot-flamin-cheese-19-x-160-g",
+          "originalUrl": "https://samgross.se/upload/new/111/111-53187.png",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Passport French Style Steak Frites",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/44-1.webp",
+          "creditUrl": "https://www.snackritexotiks.com/zh-tw/products/pringles-passport-french-style-steak-frites-flavour-germany",
+          "originalUrl": "https://www.snackritexotiks.com/cdn/shop/files/prod_img-4756355_passportfrenchstylesteakfrites01.png?v=1744917996&width=1024",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Passport Italian Style Focaccia",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/45-1.webp",
+          "creditUrl": "https://www.limestoneexoticsnacks.ca/product/pringles-passport-flavors-italian-style-focaccia-potato-chips-165g-belgium/3658",
+          "originalUrl": "https://143117210.cdn6.editmysite.com/uploads/1/4/3/1/143117210/JVVZT337DA5WR234CRJV5PYY.jpeg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Passport Italian Style Pesto",
+      "markets": [
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/centraleurope/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/33-extra-F.webp",
+          "creditUrl": "https://tormino.be/products/pringles-italian-style-pesto-6x-165-gr",
+          "originalUrl": "https://tormino.be/img/s/0841-3478-9439/files/Pringles-Italian-Style-Pesto-6x-165-gr_42b2b160-7449-4195-ae07-6e385cc8d374.png?v=1788624593&width=900&fit=t",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Passport Canadian Style Sweet & Smoky BBQ",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/47-extra-F.webp",
+          "creditUrl": "https://blankersproduct-advies.nl/product/pringles-canadian-style-sweet-smokey-bbq-165-gr/",
+          "originalUrl": "https://blankersproduct-advies.nl/wp-content/uploads/2026/07/529305.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Passport Mexican Style Spicy Salsa",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Europe & UK",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/48-extra-F.webp",
+          "creditUrl": "https://psinfoodservice.com/de/product/4133937-pringles-mexican-style-spicy-salsa-165g/",
+          "originalUrl": "https://permalink.psinfoodservice.com/prod/image/548628/0A1AE3FD-C889-4886-B1D6-EDEAAD08E728?w=800&h=800",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Pigs in Blankets",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/49-1.webp",
+          "creditUrl": "https://www.tesco.com/groceries/en-GB/products/322750057",
+          "originalUrl": "https://digitalcontent.api.tesco.com/v2/media/ghs/acc875ff-daa0-49d0-aaad-ac8483dbd256/5d198db9-2bb1-42ef-a0a4-3dfa86f174df_1152259914.jpeg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Secret Santa Mystery",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://www.pringles.com/uk/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/50-1.webp",
+          "creditUrl": "https://www.tesco.com/shop/en-GB/products/322642139",
+          "originalUrl": "https://digitalcontent.api.tesco.com/v2/media/ghs/89d25e83-562d-475a-b359-e044803e6c21/5a1b6e2e-044a-473a-8926-957ac6e0f19b_990674410.jpeg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Texas BBQ Brisket",
+      "markets": [
+        "US"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/51-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000293160_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Spicy Loaded Nacho",
+      "markets": [
+        "US"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/52-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000308130_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Loaded Potato Skins",
+      "markets": [
+        "US"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/53-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000293764_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Seven Layer Dip",
+      "markets": [
+        "US"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/54-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000293221_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Dippers Original",
+      "markets": [
+        "US"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/55-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000333088_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Dippers French Onion",
+      "markets": [
+        "US"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/56-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000333064_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Dippers Bacon Cheddar",
+      "markets": [
+        "US"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/57-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000333040_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "All Dressed",
+      "markets": [
+        "CA"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ca/en/products/favourites.html",
+      "photos": [
+        {
+          "src": "assets/cans/58-1.webp",
+          "creditUrl": "https://usabites.co.uk/products/pringles-all-dressed-5-5oz-158g",
+          "originalUrl": "https://usabites.co.uk/cdn/shop/files/CFBAAC8B-4377-4B6A-BDF0-B0F4FCCBB3E3.jpg?v=1752097088&width=1445",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Buffalo Ranch",
+      "markets": [
+        "CA"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ca/en/products/favourites.html",
+      "photos": [
+        {
+          "src": "assets/cans/59-1.webp",
+          "creditUrl": "https://candymarket.fr/collections/pringles",
+          "originalUrl": "https://candymarket.fr/cdn/shop/files/C4F7112F-CE64-4CE5-9B49-63199CA47E2E_1296x.png?v=1745233556",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Mexican Street Corn",
+      "markets": [
+        "CA"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ca/en/products/favourites.html",
+      "photos": [
+        {
+          "src": "assets/cans/60-1.webp",
+          "creditUrl": "https://extremesnacks.ca/products/pringles-mexican-street-corn-156g",
+          "originalUrl": "https://www.extremesnacks.ca/cdn/shop/files/IMG-9368.png?v=1775871645&width=1946",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Chile & Lime",
+      "markets": [
+        "CA"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ca/en/products/favourites.html",
+      "photos": [
+        {
+          "src": "assets/cans/61-1.webp",
+          "creditUrl": "https://iwholesalecandy.ca/products/pringles-chile-lime-156g-14-pack",
+          "originalUrl": "https://iwholesalecandy.ca/cdn/shop/files/pringles-chile-_-lime-chips-156g-candy-funhouse-iwholesale-candy-2024.png?v=1736454311",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Street Taco",
+      "markets": [
+        "CA"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ca/en/products/favourites.html",
+      "photos": [
+        {
+          "src": "assets/cans/62-1.webp",
+          "creditUrl": "https://www.thecandycorner.nl/product-page/pringles-street-taco",
+          "originalUrl": "https://static.wixstatic.com/media/67fc28_721ca0321ab245129f665ea5453e7600~mv2.png/v1/fill/w_480%2Ch_602%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/67fc28_721ca0321ab245129f665ea5453e7600~mv2.png",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Sweet Chili Sauce (Thailand-inspired)",
+      "markets": [
+        "CA"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ca/en/products/discover-flavours-from-asia.html",
+      "photos": [
+        {
+          "src": "assets/cans/63-1.webp",
+          "creditUrl": "https://liacandy.de/products/pringles-sweet-chili-sauce",
+          "originalUrl": "https://liacandy.de/cdn/shop/files/Pringles_Sweet_Chili_Sauce_LiaCandy.png?v=1774721869&width=1946",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Masala (India-inspired)",
+      "markets": [
+        "CA"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ca/en/products/discover-flavours-from-asia.html",
+      "photos": [
+        {
+          "src": "assets/cans/64-1.webp",
+          "creditUrl": "https://spicedivine.com/products/pringles-desi-masala-flavour-156g",
+          "originalUrl": "https://spicedivine.com/cdn/shop/files/capture_2026-01-04-02-21-12--0000_700x700.jpg?v=1767642966",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Spicy Hot Pot (China-inspired)",
+      "markets": [
+        "CA"
+      ],
+      "group": "North America",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ca/en/products/discover-flavours-from-asia.html",
+      "photos": [
+        {
+          "src": "assets/cans/65-1.webp",
+          "creditUrl": "https://candyfunhouse.ca/products/pringles-spicy-hot-pot-156g",
+          "originalUrl": "https://candyfunhouse.ca/cdn/shop/files/pringles-spicy-hot-pot-156g-Candy-Funhouse.png?v=1774020651&width=1680",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Buffalo Wild Wings Parmesan Garlic",
+      "markets": [
+        "US"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/66-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000329036_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Buffalo Wild Wings Medium Buffalo",
+      "markets": [
+        "US"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/67-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000329074_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Buffalo Wild Wings Asian Zing",
+      "markets": [
+        "US"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/68-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000329050_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Miller Lite Beer Cheese Burger",
+      "markets": [
+        "US"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/69-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000332647_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Miller Lite Beer-Braised Steak",
+      "markets": [
+        "US"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/70-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000309533_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Hot Ones Los Calientes Rojo",
+      "markets": [
+        "US"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/71-1.webp",
+          "creditUrl": "https://candyfunhouse.ca/products/pringles-hot-ones-rojo-156g",
+          "originalUrl": "https://cdn.shopify.com/s/files/1/0250/7483/files/PringlesHotOnesRojo-156g.png?v=1732129423",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Hot Ones Barbacoa",
+      "markets": [
+        "US"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/72-1.webp",
+          "creditUrl": "https://www.walmart.com/ip/9205560005",
+          "originalUrl": "https://i5.walmartimages.com/asr/3602d840-b810-49c2-9d93-83569cd00fae.318bbdd041980fd41ee16ab793c79dea.jpeg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Hot Ones Verde",
+      "markets": [
+        "US"
+      ],
+      "group": "Seasonal & collabs",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/73-1.webp",
+          "creditUrl": "https://candyfunhouse.ca/products/pringles-hot-ones-verde-156g",
+          "originalUrl": "https://cdn.shopify.com/s/files/1/0250/7483/files/PringlesHotOnesVerde-156g.png?v=1732129366",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Mingles Sweet & Salty",
+      "markets": [
+        "US"
+      ],
+      "group": "Alternate shapes",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/74-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000337239_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Mingles Dill Pickle & Ranch",
+      "markets": [
+        "US"
+      ],
+      "group": "Alternate shapes",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/75-1.webp",
+          "creditUrl": "https://www.saveonfoods.com/product/pringles-mingles-snacks-dill-pickle-%26-ranch-id-00064100149915",
+          "originalUrl": "https://images.cdn.saveonfoods.com/zoom/00064100149915.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Mingles Cheddar & Sour Cream",
+      "markets": [
+        "US"
+      ],
+      "group": "Alternate shapes",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/76-1.webp",
+          "creditUrl": "https://www.universalsweets.nl/collections/brands-pringles",
+          "originalUrl": "https://www.universalsweets.nl/cdn/shop/files/Pringles_Mingles_Cheddar_Sour_Cream_57_gram_1066x.jpg?v=1767791912",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Mingles Cinnamon & Sugar",
+      "markets": [
+        "US"
+      ],
+      "group": "Alternate shapes",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/77-1.webp",
+          "creditUrl": "https://smartlabel.kelloggs.com/Product/Index/00038000328473",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000328473_C1L1",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Mingles Jalapeño & Queso",
+      "markets": [
+        "US"
+      ],
+      "group": "Alternate shapes",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/78-front.webp",
+          "creditUrl": "https://www.pringles.com/en-us/products/all.html",
+          "originalUrl": "https://s7d1.scene7.com/is/image/Kellanovaprod/00038000309588_C1N1?wid=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Mingles Sharp White Cheddar & Ranch",
+      "markets": [
+        "US"
+      ],
+      "group": "Alternate shapes",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/en-us/products/all.html",
+      "photos": [
+        {
+          "src": "assets/cans/79-1.webp",
+          "creditUrl": "https://www.walmart.com/ip/Pringles-Mingles-Sharp-White-Cheddar-Ranch-5-5oz/8251012014",
+          "originalUrl": "https://i5.walmartimages.com/seo/Pringles-Mingles-Sharp-White-Cheddar-Ranch-5-5oz_2b73ce3e-8dab-40f0-938b-b81d2fe6e601.315fbcb92df82d3b5251c34807e4efab.jpeg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Sizzlin' Chipotle Sour Cream",
+      "markets": [
+        "AU"
+      ],
+      "group": "Asia & Oceania",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/au/products/potato-chips.html",
+      "photos": [
+        {
+          "src": "assets/cans/80-1.webp",
+          "creditUrl": "https://gopotatoes.co.nz/products/pringles-sizzln-chipotle-sour-cream-flavour-potato-chips-118g",
+          "originalUrl": "https://gopotatoes.co.nz/cdn/shop/files/5318507.png?v=1691971786",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Kickin' Peri Peri",
+      "markets": [
+        "AU"
+      ],
+      "group": "Asia & Oceania",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/au/products/potato-chips.html",
+      "photos": [
+        {
+          "src": "assets/cans/81-1.webp",
+          "creditUrl": "https://www.exoticsnackguys.com/products/pringles-kickin-peri-peri-flavor",
+          "originalUrl": "https://www.exoticsnackguys.com/cdn/shop/files/IMG-1123_1024x1024.png?v=1771522072",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Sweet & Salty Butter Caramel",
+      "markets": [
+        "AU",
+        "KR"
+      ],
+      "group": "Asia & Oceania",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/au/products/potato-chips.html",
+      "photos": [
+        {
+          "src": "assets/cans/82-1.webp",
+          "creditUrl": "https://citymarket.store.freshchoice.co.nz/lines/pringles-chips-sweet-salty-butter-caramel-118g",
+          "originalUrl": "https://dtgxwmigmg3gc.cloudfront.net/imagery/assets/derivations/icon/512/512/true/eyJpZCI6IjgxNjQ1YzE5MzBjYjhkMDc3OWI5NWU3MTVmMDU4ODQwIiwic3RvcmFnZSI6InB1YmxpY19zdG9yZSJ9?signature=b3859add75c55c7ba93f52ccf0550dce59dc2b4c8169d5b10ebf1a7a3bcf7153",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Zesty Chilli & Lime",
+      "markets": [
+        "AU",
+        "SEA"
+      ],
+      "group": "Asia & Oceania",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/au/products/potato-chips.html",
+      "photos": [
+        {
+          "src": "assets/cans/83-1.webp",
+          "creditUrl": "https://bunnasia.com/en-th/products/pringles-zesty-chilli-lime-flavour-stacked-potato-chips-5-pack-118g",
+          "originalUrl": "https://bunnasia.com/cdn/shop/files/918722.avif?v=1756293288&width=1946",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Sizzling Meat Lovers Pizza",
+      "markets": [
+        "AU"
+      ],
+      "group": "Asia & Oceania",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/au/products/potato-chips.html",
+      "photos": [
+        {
+          "src": "assets/cans/84-1.webp",
+          "creditUrl": "https://www.planet-foods.com/en/products/pringles-bbq-lovers-pizza",
+          "originalUrl": "https://www.planet-foods.com/cdn/shop/files/pringles_7.png?v=1777886721&width=1214",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Cheesy Garlic",
+      "markets": [
+        "AU"
+      ],
+      "group": "Asia & Oceania",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/au/products/potato-chips.html",
+      "photos": [
+        {
+          "src": "assets/cans/85-verified.webp",
+          "creditUrl": "https://www.pressandgrocersco.com.au/products/pringles-potato-chips-seriously-cheesy-garlic-118g",
+          "originalUrl": "https://www.pressandgrocersco.com.au/cdn/shop/products/Chips-6426cfb27c8bdf0018e4dbc3.png?v=1681696701",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Salt & Seaweed",
+      "markets": [
+        "SEA"
+      ],
+      "group": "Asia & Oceania",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/my/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/86-1.webp",
+          "creditUrl": "https://shopee.co.id/Pringles-Potato-Chips-102gr-i.464864441.11725976677",
+          "originalUrl": "https://down-id.img.susercontent.com/file/944296964794ee9c9611446c5d6b5871",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Hi! CHEESE!",
+      "markets": [
+        "JP"
+      ],
+      "group": "Japan",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/jp/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/87-1.webp",
+          "creditUrl": "https://item.rakuten.co.jp/nozomi-market/b305-15/",
+          "originalUrl": "https://shop.r10s.jp/nozomi-market/cabinet/202407_26/b305-15-1.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Umashio (savory salt)",
+      "markets": [
+        "JP"
+      ],
+      "group": "Japan",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/jp/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/88-1.webp",
+          "creditUrl": "https://www.tajimaya-cc.net/products/178920",
+          "originalUrl": "https://www.tajimaya-cc.net/upload/save_image/8886467124525.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Kansai Takoyaki",
+      "markets": [
+        "JP"
+      ],
+      "group": "Japan",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/jp/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/89-1.webp",
+          "creditUrl": "https://munchaddict.com/en-ca/products/pringles-takoyaki-japan",
+          "originalUrl": "https://munchaddict.com/cdn/shop/products/PringlesTakoyakipng_1500x.png?v=1641513317",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Hokkaido Scallop Butter Soy Sauce",
+      "markets": [
+        "JP"
+      ],
+      "group": "Japan",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/jp/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/90-1.webp",
+          "creditUrl": "https://www.anafesta.com/airports/hkd/23_0629/",
+          "originalUrl": "https://www.anafesta.com/assets/images/products/23_0629_02.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Kyushu Mentaiko",
+      "markets": [
+        "JP"
+      ],
+      "group": "Japan",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/jp/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/91-1.webp",
+          "creditUrl": "https://www.sayweee.com/en/product/Kyushu-Limited-Pringles-Mentaiko-Flavor-53g-x-3-cans/2060605",
+          "originalUrl": "https://img06.weeecdn.com/item/image/004/152/A9EAF23A5C3D9A3.png",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Italian Lasagna",
+      "markets": [
+        "JP"
+      ],
+      "group": "Japan",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000119.000012584.html",
+      "photos": [
+        {
+          "src": "assets/cans/92-1.webp",
+          "creditUrl": "https://prtimes.jp/main/html/rd/p/000000119.000012584.html",
+          "originalUrl": "https://prcdn.freetls.fastly.net/release_image/12584/119/12584-119-35916d2b56c39672495d031dbc96a7ca-857x1234.png",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Truffle",
+      "markets": [
+        "JP"
+      ],
+      "group": "Japan",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000115.000012584.html",
+      "photos": [
+        {
+          "src": "assets/cans/93-1.webp",
+          "creditUrl": "https://mognavi.jp/assessment/11261729",
+          "originalUrl": "https://img1.esimg.jp/image/food/00/00/42/3598869_original.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Ultraman Garlic Butter",
+      "markets": [
+        "JP"
+      ],
+      "group": "Japan",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://www.pringles.com/jp/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/94-1.webp",
+          "creditUrl": "https://www.napajapan.com/products/pringles-chips-hero-edition-garlic-butter-tall-can",
+          "originalUrl": "https://www.napajapan.com/cdn/shop/files/Pringles-Ultraman-Garlic-Butter-TALL_1024x1024.jpg?v=1782998416",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Sweet Onion",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Retailer",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/95-1.webp",
+          "creditUrl": "https://dankmart.ca/collections/pringles-flavours",
+          "originalUrl": "https://dankmart.ca/cdn/shop/files/Pringles-Sweet-Onion-_Korea_---100g.jpg?v=1777732886&width=1000",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Spicy Rosé Tteokbokki",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Retailer",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/96-1.webp",
+          "creditUrl": "https://candyfunhouse.com/products/pringles-spicy-rose-tteokbokki-korea-100g",
+          "originalUrl": "https://candyfunhouse.com/cdn/shop/files/pringles-spicy-rose-tteokbokki-candy-funhouse.jpg?v=1728586166",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Caribbean Spiced Chicken",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Retailer",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/97-1.webp",
+          "creditUrl": "https://www.tomodachi.com.ar/productos/pringles-caribbean-spiced-chicken-yhnv2/",
+          "originalUrl": "https://acdn-us.mitiendanube.com/stores/003/535/339/products/photoroom_20251101_183046-3e71494d80b5288ff417620328946544-1024-1024.webp",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Sweet & Spicy Korean Fried Chicken",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Retailer",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/98-1.webp",
+          "creditUrl": "https://www.tomodachi.com.ar/productos/pringles-korean-fried-chicken-1wkpi/",
+          "originalUrl": "https://acdn-us.mitiendanube.com/stores/003/535/339/products/photoroom_20251101_183012-c25ad14d2329c82ea517620326746015-1024-1024.webp",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Rich Cheesy Garlic",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Retailer",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/99-1.webp",
+          "creditUrl": "https://lottemartzetta.com/products/OS8886467124778/details",
+          "originalUrl": "https://lottemartzetta.com/images-v3/932dcbc7-fca8-4d43-bcde-f73d1ce3cc7d/413d7853-d7a7-458d-a7aa-a92969971210/1120x1120.jpg",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Smoky BBQ Lovers Pizza",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Retailer",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/100-1.webp",
+          "creditUrl": "https://poppin-candy.com/products/pringles-bbq-lovers-pizza-3-6oz-102g",
+          "originalUrl": "https://poppin-candy.com/cdn/shop/files/image-Photoroom-2026-04-22T154823.120.png?v=1776869798&width=1512",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Spicy Texas BBQ",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/101-1.webp",
+          "creditUrl": "https://exoticsnacks.com/products/pringles-thailand-spicy-texas-style-bbq-chips-97g",
+          "originalUrl": "https://exoticsnacks.com/cdn/shop/files/Pringles-Thailand-Spicy-Texas-Style-BBQ-Chips_-Pringles-71856847_1022x1022.png?v=1706772074",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Meaty Cheese Lasagna",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/102-1.webp",
+          "creditUrl": "https://shopee.tw/%E3%80%90%E6%98%A5%E5%AE%87%E3%80%91-%E5%93%81%E5%AE%A2%E6%B4%8B%E8%8A%8B%E7%89%87-%E5%8E%9F%E5%91%B3-%E6%B4%8B%E8%94%A5-%E8%B5%B7%E5%8F%B8-%E6%89%B9%E8%96%A9102g-%E8%96%AF%E7%89%87-%E8%96%AF%E6%A2%9D-%E9%A6%AC%E9%88%B4%E8%96%AF%E7%89%87-i.956141576.22733693967",
+          "originalUrl": "https://down-tw.img.susercontent.com/file/tw-11134208-820l9-mpbp2dgekjym6e",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Quattro Cheese Cheeseburger",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Retailer",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/103-1.webp",
+          "creditUrl": "https://www.pringlesarchive.org/flavours/cheese-burger",
+          "originalUrl": "https://storage.googleapis.com/pringles-archive-flavour-bucket/flavours/cheese-burger/110g-turquoise-design-fa01ef/thumbnail.webp",
+          "label": "Korean Cheeseburger · regional reference"
+        }
+      ],
+      "photoNote": "Korean Cheeseburger packaging shown as a regional reference; the “Quattro Cheese” name in the original catalogue is unconfirmed."
+    },
+    {
+      "id": 104,
+      "name": "Sweet Mustard",
+      "markets": [
+        "KR"
+      ],
+      "group": "Korea",
+      "evidence": "Retailer",
+      "sourceUrl": "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224",
+      "photos": [
+        {
+          "src": "assets/cans/104-1.webp",
+          "creditUrl": "https://www.bigbasket.com/pd/40029371/pringles-potato-chips-honey-mustard-158-g/",
+          "originalUrl": "https://www.bbassets.com/media/uploads/p/l/40029371_4-pringles-potato-chips-honey-mustard.jpg",
+          "label": "Honey Mustard · regional reference"
+        }
+      ],
+      "photoNote": "Honey Mustard packaging shown as a regional reference; the “Sweet Mustard” name in the original catalogue is unconfirmed."
+    },
+    {
+      "id": 105,
+      "name": "Cucumber & Sea Salt",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.jd.com/hprm/1320261d5556b29d0cb1.html",
+      "photos": [
+        {
+          "src": "assets/cans/105-1.webp",
+          "creditUrl": "https://www.confectionerywarehouse.com.au/products/pringles-cucumber-sea-salt-110g",
+          "originalUrl": "https://www.confectionerywarehouse.com.au/cdn/shop/files/115339.jpg?v=1747809602",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Seaweed",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.jd.com/hprm/1320261d5556b29d0cb1.html",
+      "photos": [
+        {
+          "src": "assets/cans/106-1.webp",
+          "creditUrl": "https://www.confectionerywarehouse.com.au/products/pringles-seaweed-flavour-110g",
+          "originalUrl": "https://www.confectionerywarehouse.com.au/cdn/shop/files/115285.jpg?v=1747810542&width=600",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Thirteen-Spices Crayfish",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.jd.com/hprm/1320261d5556b29d0cb1.html",
+      "photos": [
+        {
+          "src": "assets/cans/107-1.webp",
+          "creditUrl": "https://asiabaires.mitiendanube.com/snacks-salados1/page/2/",
+          "originalUrl": "https://acdn-us.mitiendanube.com/stores/003/538/553/products/6958652300761-papas-fritas-sabor-cangrejo-a-las-13-especias-picante-110-gr-caeffdc9df69974a0d17262612645312-480-0.webp",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Spicy Strips",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.jd.com/hprm/1320261d5556b29d0cb1.html",
+      "photos": [
+        {
+          "src": "assets/cans/108-1.webp",
+          "creditUrl": "https://americanuncle.de/products/pringles-spicy-strips-110g",
+          "originalUrl": "https://americanuncle.de/cdn/shop/files/pringles-spicy-strips.jpg?v=1695040918&width=1080",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Chili Lemon Crab",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.jd.com/hprm/1320261d5556b29d0cb1.html",
+      "photos": [
+        {
+          "src": "assets/cans/109-1.webp",
+          "creditUrl": "https://www.unitedsweets.co.nz/products/pringles-super-hot-chili-lemon-crab-china-110g",
+          "originalUrl": "https://www.unitedsweets.co.nz/cdn/shop/files/PringlesChiliLemonCrab_1024x1024.png?v=1740301318",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Lime & Tart",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.jd.com/hprm/1320261d5556b29d0cb1.html",
+      "photos": [
+        {
+          "src": "assets/cans/110-1.webp",
+          "creditUrl": "https://globalbiteco.com/products/pringles-lime-tart-flavor-110g-china",
+          "originalUrl": "https://globalbiteco.com/cdn/shop/files/WhatsApp_Image_2024-08-12_at_17.38-Photoroom_6.jpg?v=1723506486",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Tomato",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.jd.com/hprm/1320261d5556b29d0cb1.html",
+      "photos": [
+        {
+          "src": "assets/cans/111-verified.webp",
+          "creditUrl": "https://bokksumarket.com/products/pringles-potato-chips-tomato",
+          "originalUrl": "https://bokksumarket.com/cdn/shop/files/BG12636_PringlesPotatoChipsTomato_Product_af79c3ef-aa00-4047-9f3c-4e503d050baf.jpg?v=1749813679",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Spicy King Crab",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.jd.com/hprm/1320261d5556b29d0cb1.html",
+      "photos": [
+        {
+          "src": "assets/cans/112-1.webp",
+          "creditUrl": "https://bokksumarket.com/products/pringles-potato-chips-king-crab-flavor?srsltid=AfmBOoqeuiGa-YOlkgVE3EAc7sf_8uxrKTAaR2HnJYFZ-Vo-vrSdD46U",
+          "originalUrl": "https://cdn.shopify.com/s/files/1/0631/7424/6498/files/BG12638_PringlesPotatoChipsKingCrabFlavor_Product_edbdb364-9d75-49bb-9d11-54a068079f3c_400x400.jpg?v=1749813670",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Hot & Spicy Seaweed",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.jd.com/hprm/1320261d5556b29d0cb1.html",
+      "photos": [
+        {
+          "src": "assets/cans/113-1.webp",
+          "creditUrl": "https://kptropical.com/products/pringles-potato-chips-hot-and-spicy-seaweed-flavor-97-g-97",
+          "originalUrl": "https://kptropical.com/cdn/shop/files/PRINGLESHOTANDSPICYSEAWEED97G_grande.png?v=1706464416",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Black Pepper Parmesan",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://shop.tiktok.com/us/pdp/pringles-crunchy-chips-exotic-flavors-80g-110g-importer/1732535939575813040",
+      "photos": [
+        {
+          "src": "assets/cans/114-verified.webp",
+          "creditUrl": "https://203exoticsnacks.com/products/pringles-black-pepper-parmesan",
+          "originalUrl": "https://203exoticsnacks.com/cdn/shop/files/IMG-9190.jpg?v=1771349846&width=709",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Chicken Twister with Morel",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://shop.tiktok.com/us/pdp/pringles-crunchy-chips-exotic-flavors-80g-110g-importer/1732535939575813040",
+      "photos": [
+        {
+          "src": "assets/cans/115-1.webp",
+          "creditUrl": "https://snacksafari.com/products/pringles-french-chicken-twister-with-morel-80g-chef-morgan-edition",
+          "originalUrl": "https://snacksafari.com/cdn/shop/files/WhatsAppImage2024-09-24at11.31-Photoroom_11.jpg?v=1768575024&width=1946",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Steak & Foie Gras",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://shop.tiktok.com/us/pdp/pringles-crunchy-chips-exotic-flavors-80g-110g-importer/1732535939575813040",
+      "photos": [
+        {
+          "src": "assets/cans/116-1.webp",
+          "creditUrl": "https://specialtyfoodsource.com/products/pringles-chef-morgan-classic-m5-steak-foie-gras-80g-china",
+          "originalUrl": "https://specialtyfoodsource.com/cdn/shop/files/472992D4-9CAB-428F-B6FF-38D2B6C13B45.webp?v=1749669310",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Velvet Mashed Potatoes",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://shop.tiktok.com/us/pdp/pringles-crunchy-chips-exotic-flavors-80g-110g-importer/1732535939575813040",
+      "photos": [
+        {
+          "src": "assets/cans/117-1.webp",
+          "creditUrl": "https://randallsuk.com/products/pringles-black-truffle-velvet-mashed-potato-china",
+          "originalUrl": "https://randallsuk.com/cdn/shop/files/PRINGLESCHINABLACKTRUFFLEVELVETMASHEDPOTATO.jpg?v=1771343521",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "BBQ Steak",
+      "markets": [
+        "CN"
+      ],
+      "group": "China",
+      "evidence": "Retailer",
+      "sourceUrl": "https://shop.tiktok.com/us/pdp/pringles-crunchy-chips-exotic-flavors-80g-110g-importer/1732535939575813040",
+      "photos": [
+        {
+          "src": "assets/cans/118-1.webp",
+          "creditUrl": "https://www.willywacky.com/products/pringles-bbq-steak",
+          "originalUrl": "https://www.willywacky.com/cdn/shop/products/Untitleddesign_84_2048x.png?v=1633623116",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Picanha no Alho (garlic steak)",
+      "markets": [
+        "BR"
+      ],
+      "group": "Brazil",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://www.pringlespromo.com.br/novos-sabores/",
+      "photos": [
+        {
+          "src": "assets/cans/119-extra-B.webp",
+          "creditUrl": "https://gkpb.com.br/199013/pringles-churras-original-br/",
+          "originalUrl": "https://gkpb.com.br/wp-content/uploads/2026/09/pringles-1-1024x576.jpg",
+          "label": "Brazil Churras range · group photo"
+        }
+      ],
+      "photoNote": "This flavour is pictured in the Brazilian Churras range photo."
+    },
+    {
+      "id": 120,
+      "name": "Costela na Brasa (grilled ribs)",
+      "markets": [
+        "BR"
+      ],
+      "group": "Brazil",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://www.pringlespromo.com.br/novos-sabores/",
+      "photos": [
+        {
+          "src": "assets/cans/119-extra-B.webp",
+          "creditUrl": "https://gkpb.com.br/199013/pringles-churras-original-br/",
+          "originalUrl": "https://gkpb.com.br/wp-content/uploads/2026/09/pringles-1-1024x576.jpg",
+          "label": "Brazil Churras range · group photo"
+        }
+      ],
+      "photoNote": "This flavour is pictured in the Brazilian Churras range photo."
+    },
+    {
+      "id": 121,
+      "name": "Linguiça com Vinagrete (sausage & vinaigrette)",
+      "markets": [
+        "BR"
+      ],
+      "group": "Brazil",
+      "evidence": "Seasonal",
+      "sourceUrl": "https://www.pringlespromo.com.br/novos-sabores/",
+      "photos": [
+        {
+          "src": "assets/cans/119-extra-B.webp",
+          "creditUrl": "https://gkpb.com.br/199013/pringles-churras-original-br/",
+          "originalUrl": "https://gkpb.com.br/wp-content/uploads/2026/09/pringles-1-1024x576.jpg",
+          "label": "Brazil Churras range · group photo"
+        }
+      ],
+      "photoNote": "This flavour is pictured in the Brazilian Churras range photo."
+    },
+    {
+      "id": 122,
+      "name": "Fruit Chutney",
+      "markets": [
+        "ZA"
+      ],
+      "group": "Africa & Middle East",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.deeliver.co.za/collections/pringles",
+      "photos": [
+        {
+          "src": "assets/cans/122-1.webp",
+          "creditUrl": "https://my-sweet-usa.de/products/pringles-potato-chips-fusion-chutney-102-g",
+          "originalUrl": "https://my-sweet-usa.de/cdn/shop/files/4020.jpg?v=1709564363",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Sour Cream & Chives",
+      "markets": [
+        "ZA"
+      ],
+      "group": "Africa & Middle East",
+      "evidence": "Retailer",
+      "sourceUrl": "https://www.dischem.co.za/shop-by-department/brands/brands-p/pringles",
+      "photos": [
+        {
+          "src": "assets/cans/123-1.webp",
+          "creditUrl": "https://bluehorseinternationalfoods.com/collections/pringles",
+          "originalUrl": "https://bluehorseinternationalfoods.com/cdn/shop/files/LONDONDIARY_uae_ISNOWATOURSTORE-2024-01-09T112019.013.png?v=1704881510&width=1066",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "XTRA Cheesy Nacho Cheese",
+      "markets": [
+        "ME"
+      ],
+      "group": "Africa & Middle East",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ae/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/124-1.webp",
+          "creditUrl": "https://online.metro-cc.ru/products/pringles-xtra-cheesy-nacho-cheese-150-g",
+          "originalUrl": "https://cdn.metro-cc.ru/ru/ru_pim_178727001001_01.png",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "XTRA Kickin' Sour Cream & Onion",
+      "markets": [
+        "ME"
+      ],
+      "group": "Africa & Middle East",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ae/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/125-1.webp",
+          "creditUrl": "https://www.pringlesarchive.org/flavours/xtra-kickin-sour-cream-and-onion",
+          "originalUrl": "https://storage.googleapis.com/pringles-archive-flavour-bucket/flavours/xtra-kickin-sour-cream-and-onion/main.png",
+          "label": "Can"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "XTRA Spicy Chilli Sauce",
+      "markets": [
+        "ME"
+      ],
+      "group": "Africa & Middle East",
+      "evidence": "Official",
+      "sourceUrl": "https://www.pringles.com/ae/en/products.html",
+      "photos": [
+        {
+          "src": "assets/cans/126-1.webp",
+          "creditUrl": "https://americanuncle.it/products/pringles-xtra-spicy-da-175g",
+          "originalUrl": "https://americanuncle.it/cdn/shop/products/pringlesxtraspicyda175g.jpg?v=1664377793",
+          "label": "Can"
+        }
+      ]
+    }
+  ],
+  "markets": {
+    "US": "United States",
+    "UK": "United Kingdom",
+    "EU": "Continental Europe",
+    "CA": "Canada",
+    "AU": "Australia",
+    "JP": "Japan",
+    "KR": "South Korea",
+    "SEA": "Southeast Asia",
+    "CN": "China",
+    "BR": "Brazil",
+    "ZA": "South Africa",
+    "ME": "Middle East"
+  },
+  "sources": {
+    "us": [
+      "United States · Pringles official catalogue",
+      "https://www.pringles.com/en-us/products/all.html"
+    ],
+    "uk": [
+      "United Kingdom · Pringles official range",
+      "https://www.pringles.com/uk/products.html"
+    ],
+    "ce": [
+      "Continental Europe · Pringles official range",
+      "https://www.pringles.com/centraleurope/en/products.html"
+    ],
+    "dk": [
+      "Denmark · Pringles official range",
+      "https://www.pringles.com/dk/products.html"
+    ],
+    "es": [
+      "Spain · Pringles official range",
+      "https://www.pringles.com/es/products.html"
+    ],
+    "it": [
+      "Italy · Pringles official range",
+      "https://www.pringles.com/it/products.html"
+    ],
+    "fr": [
+      "France · Pringles official range",
+      "https://www.pringles.com/fr/products.html"
+    ],
+    "ca": [
+      "Canada · Pringles official range",
+      "https://www.pringles.com/ca/en/products/favourites.html"
+    ],
+    "caasia": [
+      "Canada · Discover Flavours from Asia",
+      "https://www.pringles.com/ca/en/products/discover-flavours-from-asia.html"
+    ],
+    "au": [
+      "Australia · Pringles official range",
+      "https://www.pringles.com/au/products/potato-chips.html"
+    ],
+    "my": [
+      "Malaysia · Pringles official range",
+      "https://www.pringles.com/my/products.html"
+    ],
+    "jp": [
+      "Japan · Pringles official range",
+      "https://www.pringles.com/jp/products.html"
+    ],
+    "jprelease": [
+      "Japan · November 2026 new flavour announcement",
+      "https://prtimes.jp/main/html/rd/p/000000119.000012584.html"
+    ],
+    "jptruffle": [
+      "Japan · August 2026 new flavour announcement",
+      "https://prtimes.jp/main/html/rd/p/000000115.000012584.html"
+    ],
+    "kr": [
+      "South Korea · Korean retailer listings",
+      "https://m.ssg.com/item/itemView.ssg?itemId=1000854588224"
+    ],
+    "cn": [
+      "China · JD retailer listings",
+      "https://www.jd.com/hprm/1320261d5556b29d0cb1.html"
+    ],
+    "cnimport": [
+      "China · Specialty retailer listings",
+      "https://shop.tiktok.com/us/pdp/pringles-crunchy-chips-exotic-flavors-80g-110g-importer/1732535939575813040"
+    ],
+    "br": [
+      "Brazil · Pringles 2026 promotion",
+      "https://www.pringlespromo.com.br/novos-sabores/"
+    ],
+    "brret": [
+      "Brazil · Brazilian online retailer listing",
+      "https://shopee.com.br/Kit-Batata-Pringles-c-5-Sabores-i.747742068.22897487993"
+    ],
+    "za": [
+      "South Africa · retailer listings",
+      "https://www.deeliver.co.za/collections/pringles"
+    ],
+    "zastore": [
+      "South Africa · retailer listings",
+      "https://www.dischem.co.za/shop-by-department/brands/brands-p/pringles"
+    ],
+    "me": [
+      "Middle East · Pringles official range",
+      "https://www.pringles.com/ae/en/products.html"
+    ]
+  }
+}
